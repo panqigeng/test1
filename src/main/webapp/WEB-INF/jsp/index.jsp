@@ -11,6 +11,6 @@
     <title>Title</title>
 </head>
 <body>
-    hello new jenkins success!
+    hello new one jenkins success!
 </body>
 </html>
